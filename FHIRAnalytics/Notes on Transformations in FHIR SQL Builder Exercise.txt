@@ -1,0 +1,18 @@
+Notes on Transformations needed in the IRIS FHIR SQL Builder Exercise
+
+For Patient Table, here are the columns that are needed:
+"ID"
+"BirthDate"
+"FirstName"
+"Gender"
+"LastName",
+"LastUpdated",
+"MaritalStatus",
+"PatientBirthPlaceCity"
+
+For the Allergy Intolerance Table, here are the columns that are needed:
+"ID"
+"AllergyCode" (this code is the is under clinical status and indicates whehter the allegy is active or inactive)
+"AllergyDisplay"
+"LastUpdated"
+"PatientReference"

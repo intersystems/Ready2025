@@ -1,0 +1,75 @@
+"ID","AllergyCode","AllergyDisplay","Key","LastUpdated","PatientReference","RowNum"
+5202,active,Allergy to mould,AllergyIntolerance/5202,"2024-08-14T12:26:53Z",Patient/5193,5202
+5203,active,Shellfish allergy,AllergyIntolerance/5203,"2024-08-14T12:26:53Z",Patient/5193,5203
+22192,active,Shellfish allergy,AllergyIntolerance/22192,"2024-08-14T12:27:39Z",Patient/22177,22192
+22193,active,Allergy to fish,AllergyIntolerance/22193,"2024-08-14T12:27:39Z",Patient/22177,22193
+23391,active,Latex allergy,AllergyIntolerance/23391,"2024-08-14T12:27:43Z",Patient/23008,23391
+23392,active,Allergy to mould,AllergyIntolerance/23392,"2024-08-14T12:27:43Z",Patient/23008,23392
+23393,active,House dust mite allergy,AllergyIntolerance/23393,"2024-08-14T12:27:43Z",Patient/23008,23393
+23394,active,Dander (animal) allergy,AllergyIntolerance/23394,"2024-08-14T12:27:43Z",Patient/23008,23394
+23395,active,Allergy to tree pollen,AllergyIntolerance/23395,"2024-08-14T12:27:43Z",Patient/23008,23395
+23396,active,Allergy to nut,AllergyIntolerance/23396,"2024-08-14T12:27:43Z",Patient/23008,23396
+23397,active,Allergy to peanuts,AllergyIntolerance/23397,"2024-08-14T12:27:43Z",Patient/23008,23397
+23835,active,House dust mite allergy,AllergyIntolerance/23835,"2024-08-14T12:27:45Z",Patient/23826,23835
+23836,active,Shellfish allergy,AllergyIntolerance/23836,"2024-08-14T12:27:45Z",Patient/23826,23836
+24335,active,Allergy to nut,AllergyIntolerance/24335,"2024-08-14T12:27:46Z",Patient/24326,24335
+25266,active,Allergy to mould,AllergyIntolerance/25266,"2024-08-14T12:27:48Z",Patient/25250,25266
+25267,active,House dust mite allergy,AllergyIntolerance/25267,"2024-08-14T12:27:48Z",Patient/25250,25267
+27726,active,Allergy to nut,AllergyIntolerance/27726,"2024-08-14T12:27:55Z",Patient/27562,27726
+28713,active,Allergy to mould,AllergyIntolerance/28713,"2024-08-14T12:27:58Z",Patient/28549,28713
+28714,active,House dust mite allergy,AllergyIntolerance/28714,"2024-08-14T12:27:58Z",Patient/28549,28714
+28715,active,Dander (animal) allergy,AllergyIntolerance/28715,"2024-08-14T12:27:58Z",Patient/28549,28715
+28716,active,Allergy to grass pollen,AllergyIntolerance/28716,"2024-08-14T12:27:58Z",Patient/28549,28716
+28717,active,Allergy to tree pollen,AllergyIntolerance/28717,"2024-08-14T12:27:58Z",Patient/28549,28717
+28718,active,Allergy to nut,AllergyIntolerance/28718,"2024-08-14T12:27:58Z",Patient/28549,28718
+31756,active,Allergy to mould,AllergyIntolerance/31756,"2024-08-14T12:28:08Z",Patient/31747,31756
+31757,active,House dust mite allergy,AllergyIntolerance/31757,"2024-08-14T12:28:08Z",Patient/31747,31757
+31758,active,Dander (animal) allergy,AllergyIntolerance/31758,"2024-08-14T12:28:08Z",Patient/31747,31758
+31759,active,Allergy to grass pollen,AllergyIntolerance/31759,"2024-08-14T12:28:08Z",Patient/31747,31759
+31760,active,Allergy to peanuts,AllergyIntolerance/31760,"2024-08-14T12:28:08Z",Patient/31747,31760
+33400,active,Allergy to bee venom,AllergyIntolerance/33400,"2024-08-14T12:28:14Z",Patient/33391,33400
+33401,active,House dust mite allergy,AllergyIntolerance/33401,"2024-08-14T12:28:14Z",Patient/33391,33401
+33402,active,Allergy to dairy product,AllergyIntolerance/33402,"2024-08-14T12:28:14Z",Patient/33391,33402
+33403,active,Shellfish allergy,AllergyIntolerance/33403,"2024-08-14T12:28:14Z",Patient/33391,33403
+33404,active,Allergy to nut,AllergyIntolerance/33404,"2024-08-14T12:28:14Z",Patient/33391,33404
+36528,active,Latex allergy,AllergyIntolerance/36528,"2024-08-14T12:28:23Z",Patient/36515,36528
+37105,active,Latex allergy,AllergyIntolerance/37105,"2024-08-14T12:28:25Z",Patient/36989,37105
+37106,active,Allergy to bee venom,AllergyIntolerance/37106,"2024-08-14T12:28:25Z",Patient/36989,37106
+37107,active,Allergy to mould,AllergyIntolerance/37107,"2024-08-14T12:28:25Z",Patient/36989,37107
+37108,active,House dust mite allergy,AllergyIntolerance/37108,"2024-08-14T12:28:25Z",Patient/36989,37108
+37109,active,Dander (animal) allergy,AllergyIntolerance/37109,"2024-08-14T12:28:25Z",Patient/36989,37109
+37110,active,Allergy to grass pollen,AllergyIntolerance/37110,"2024-08-14T12:28:25Z",Patient/36989,37110
+37279,active,Allergy to tree pollen,AllergyIntolerance/37279,"2024-08-14T12:28:25Z",Patient/36989,37279
+37280,active,Allergy to dairy product,AllergyIntolerance/37280,"2024-08-14T12:28:25Z",Patient/36989,37280
+40475,active,Allergy to grass pollen,AllergyIntolerance/40475,"2024-08-14T12:28:37Z",Patient/40467,40475
+43827,active,Shellfish allergy,AllergyIntolerance/43827,"2024-08-14T12:28:45Z",Patient/43673,43827
+53590,active,Allergy to mould,AllergyIntolerance/53590,"2024-08-14T12:29:15Z",Patient/53581,53590
+53591,active,House dust mite allergy,AllergyIntolerance/53591,"2024-08-14T12:29:15Z",Patient/53581,53591
+53592,active,Dander (animal) allergy,AllergyIntolerance/53592,"2024-08-14T12:29:15Z",Patient/53581,53592
+53593,active,Allergy to grass pollen,AllergyIntolerance/53593,"2024-08-14T12:29:15Z",Patient/53581,53593
+53594,active,Allergy to dairy product,AllergyIntolerance/53594,"2024-08-14T12:29:15Z",Patient/53581,53594
+53595,active,Shellfish allergy,AllergyIntolerance/53595,"2024-08-14T12:29:15Z",Patient/53581,53595
+53596,active,Allergy to peanuts,AllergyIntolerance/53596,"2024-08-14T12:29:15Z",Patient/53581,53596
+56819,active,Shellfish allergy,AllergyIntolerance/56819,"2024-08-14T12:29:24Z",Patient/56810,56819
+57870,inactive,Allergy to mould,AllergyIntolerance/57870,"2024-08-14T12:29:28Z",Patient/57834,57870
+57871,inactive,Dander (animal) allergy,AllergyIntolerance/57871,"2024-08-14T12:29:28Z",Patient/57834,57871
+57872,inactive,Allergy to grass pollen,AllergyIntolerance/57872,"2024-08-14T12:29:28Z",Patient/57834,57872
+57873,inactive,Allergy to tree pollen,AllergyIntolerance/57873,"2024-08-14T12:29:28Z",Patient/57834,57873
+59414,active,Allergy to bee venom,AllergyIntolerance/59414,"2024-08-14T12:29:32Z",Patient/59405,59414
+59415,active,Allergy to mould,AllergyIntolerance/59415,"2024-08-14T12:29:32Z",Patient/59405,59415
+59416,active,House dust mite allergy,AllergyIntolerance/59416,"2024-08-14T12:29:32Z",Patient/59405,59416
+59417,active,Dander (animal) allergy,AllergyIntolerance/59417,"2024-08-14T12:29:32Z",Patient/59405,59417
+59418,active,Allergy to tree pollen,AllergyIntolerance/59418,"2024-08-14T12:29:32Z",Patient/59405,59418
+62452,active,Allergy to mould,AllergyIntolerance/62452,"2024-08-14T12:29:41Z",Patient/62443,62452
+62453,active,Dander (animal) allergy,AllergyIntolerance/62453,"2024-08-14T12:29:41Z",Patient/62443,62453
+62454,active,Allergy to fish,AllergyIntolerance/62454,"2024-08-14T12:29:41Z",Patient/62443,62454
+64270,active,Allergy to bee venom,AllergyIntolerance/64270,"2024-08-14T12:29:47Z",Patient/64261,64270
+64271,active,Allergy to mould,AllergyIntolerance/64271,"2024-08-14T12:29:47Z",Patient/64261,64271
+64272,active,Allergy to tree pollen,AllergyIntolerance/64272,"2024-08-14T12:29:47Z",Patient/64261,64272
+64273,active,Allergy to peanuts,AllergyIntolerance/64273,"2024-08-14T12:29:47Z",Patient/64261,64273
+64422,active,Allergy to bee venom,AllergyIntolerance/64422,"2024-08-14T12:29:48Z",Patient/64413,64422
+64423,active,Allergy to mould,AllergyIntolerance/64423,"2024-08-14T12:29:48Z",Patient/64413,64423
+64424,inactive,House dust mite allergy,AllergyIntolerance/64424,"2024-08-14T12:29:48Z",Patient/64413,64424
+64425,inactive,Dander (animal) allergy,AllergyIntolerance/64425,"2024-08-14T12:29:48Z",Patient/64413,64425
+64426,inactive,Allergy to grass pollen,AllergyIntolerance/64426,"2024-08-14T12:29:48Z",Patient/64413,64426
+64427,active,Allergy to fish,AllergyIntolerance/64427,"2024-08-14T12:29:48Z",Patient/64413,64427
