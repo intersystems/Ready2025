@@ -105,4 +105,10 @@ Open the notebook:
 
 ---
 
+## 💬 Support
 
+If you encounter any issues or have questions, please open an [Issue](https://github.com/intersystems/Ready2025/issues) in this repository or post on the [InterSystems Developer Community](https://community.intersystems.com).
+
+---
+
+Happy FHIR-ing! 🔥
